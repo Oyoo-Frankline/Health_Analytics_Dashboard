@@ -67,32 +67,6 @@ Key Skills Demonstrated
 * Excel dashboard development.
 * Data storytelling and insight communication.
 
-Project Structure
-
-OCD-Health-Analytics/
-│
-├── data/
-│   ├── ocd_dataset.csv
-│   ├── gender_analysis.csv
-│   ├── ethnicity_analysis.csv
-│   ├── diagnosis_trend.csv
-│   ├── obsession_type_analysis.csv
-│   └── compulsion_type_analysis.csv
-│
-├── sql/
-│   └── ocd_health_analytics.sql
-│
-├── powerbi/
-│   └── OCD_Health_Analytics_Dashboard.pbix
-│
-├── excel/
-│   └── OCD_Health_Analytics_Dashboard.xlsx
-│
-├── screenshots/
-│   └── dashboard_preview.png
-│
-└── README.md
-
 Project Outcome
 
 The project successfully transformed raw OCD patient data into meaningful insights through SQL analysis and interactive dashboards. It highlights demographic patterns, diagnosis trends, and clinical characteristics that can support healthcare analytics and decision-making while demonstrating practical end-to-end data analytics skills.
