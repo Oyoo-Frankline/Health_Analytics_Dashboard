@@ -1,3 +1,6 @@
+Images/<img width="710" height="378" alt="Power BI _Dashboard (1)" src="https://github.com/user-attachments/assets/4a5992c8-629a-4eba-8bb7-bdb44c649090" />
+
+
 OCD Health Analytics Dashboard
 
 Project Overview
